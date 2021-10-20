@@ -1,1 +1,1 @@
-text (https://github.com/paddingu)
+[text] (https://github.com/paddingu)
